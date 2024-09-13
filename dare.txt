@@ -1,0 +1,3424 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "middleName": null,
+                    "fullName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": false,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [
+                        "OUTER BANKS HEALTH FAMILY MEDICINE"
+                    ],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "Arabic",
+                            "languageTypeCd": "AR"
+                        },
+                        {
+                            "languageDesc": "Cambodian",
+                            "languageTypeCd": "CA"
+                        },
+                        {
+                            "languageDesc": "Chinese",
+                            "languageTypeCd": "CH"
+                        },
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "French Creole",
+                            "languageTypeCd": "FC"
+                        },
+                        {
+                            "languageDesc": "French",
+                            "languageTypeCd": "FR"
+                        },
+                        {
+                            "languageDesc": "German",
+                            "languageTypeCd": "GE"
+                        },
+                        {
+                            "languageDesc": "Greek",
+                            "languageTypeCd": "GR"
+                        },
+                        {
+                            "languageDesc": "Hindi",
+                            "languageTypeCd": "HI"
+                        },
+                        {
+                            "languageDesc": "Hmong",
+                            "languageTypeCd": "HM"
+                        },
+                        {
+                            "languageDesc": "Italian",
+                            "languageTypeCd": "IT"
+                        },
+                        {
+                            "languageDesc": "Japanese",
+                            "languageTypeCd": "JA"
+                        },
+                        {
+                            "languageDesc": "Korean",
+                            "languageTypeCd": "KO"
+                        },
+                        {
+                            "languageDesc": "Laotian",
+                            "languageTypeCd": "LA"
+                        },
+                        {
+                            "languageDesc": "Other",
+                            "languageTypeCd": "OT"
+                        },
+                        {
+                            "languageDesc": "Persian",
+                            "languageTypeCd": "PE"
+                        },
+                        {
+                            "languageDesc": "Portuguese",
+                            "languageTypeCd": "PG"
+                        },
+                        {
+                            "languageDesc": "Russian",
+                            "languageTypeCd": "RU"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        },
+                        {
+                            "languageDesc": "Thai",
+                            "languageTypeCd": "TH"
+                        },
+                        {
+                            "languageDesc": "Vietnamese",
+                            "languageTypeCd": "VI"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "84083878",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BIERNACKI,GREGORY",
+                                "CRABTREE,THOMAS",
+                                "FOUNTAIN,JAMIE",
+                                "HODGES,JOSEPH",
+                                "PARSONS,DEAN",
+                                "SHOEMAKER,KELLY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2194595272",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BIERNACKI,GREGORY",
+                                "CRABTREE,THOMAS",
+                                "FOUNTAIN,JAMIE",
+                                "HODGES,JOSEPH",
+                                "PARSONS,DEAN",
+                                "SHOEMAKER,KELLY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "67071309",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BIERNACKI,GREGORY",
+                                "CRABTREE,THOMAS",
+                                "FOUNTAIN,JAMIE",
+                                "HODGES,JOSEPH",
+                                "PARSONS,DEAN",
+                                "SHOEMAKER,KELLY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42062439",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BIERNACKI,GREGORY",
+                                "CRABTREE,THOMAS",
+                                "FOUNTAIN,JAMIE",
+                                "HODGES,JOSEPH",
+                                "PARSONS,DEAN",
+                                "SHOEMAKER,KELLY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1338443203",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BIERNACKI,GREGORY",
+                                "CRABTREE,THOMAS",
+                                "FOUNTAIN,JAMIE",
+                                "HODGES,JOSEPH",
+                                "PARSONS,DEAN",
+                                "SHOEMAKER,KELLY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1625516293",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BIERNACKI,GREGORY",
+                                "CRABTREE,THOMAS",
+                                "FOUNTAIN,JAMIE",
+                                "HODGES,JOSEPH",
+                                "PARSONS,DEAN",
+                                "SHOEMAKER,KELLY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "153545734",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BIERNACKI,GREGORY",
+                                "CRABTREE,THOMAS",
+                                "FOUNTAIN,JAMIE",
+                                "HODGES,JOSEPH",
+                                "PARSONS,DEAN",
+                                "SHOEMAKER,KELLY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"Y\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1891050357",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 0,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0830-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2529953073",
+                    "dbaName": "OUTER BANKS HEALTH MEDICAL GROUP",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "40894 NC HWY 12",
+                        "addressLine2": null,
+                        "city": "AVON",
+                        "state": "NC",
+                        "zipCode": "27915",
+                        "countyCode": "028",
+                        "countyName": "Dare",
+                        "latitude": 35.348534,
+                        "longitude": -75.50433,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2529953073",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10352706"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "middleName": null,
+                    "fullName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": false,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [
+                        "OUTER BANKS HEALTH FAMILY MEDICINE"
+                    ],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "Arabic",
+                            "languageTypeCd": "AR"
+                        },
+                        {
+                            "languageDesc": "Cambodian",
+                            "languageTypeCd": "CA"
+                        },
+                        {
+                            "languageDesc": "Chinese",
+                            "languageTypeCd": "CH"
+                        },
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "French Creole",
+                            "languageTypeCd": "FC"
+                        },
+                        {
+                            "languageDesc": "French",
+                            "languageTypeCd": "FR"
+                        },
+                        {
+                            "languageDesc": "German",
+                            "languageTypeCd": "GE"
+                        },
+                        {
+                            "languageDesc": "Greek",
+                            "languageTypeCd": "GR"
+                        },
+                        {
+                            "languageDesc": "Hindi",
+                            "languageTypeCd": "HI"
+                        },
+                        {
+                            "languageDesc": "Hmong",
+                            "languageTypeCd": "HM"
+                        },
+                        {
+                            "languageDesc": "Italian",
+                            "languageTypeCd": "IT"
+                        },
+                        {
+                            "languageDesc": "Japanese",
+                            "languageTypeCd": "JA"
+                        },
+                        {
+                            "languageDesc": "Korean",
+                            "languageTypeCd": "KO"
+                        },
+                        {
+                            "languageDesc": "Laotian",
+                            "languageTypeCd": "LA"
+                        },
+                        {
+                            "languageDesc": "Other",
+                            "languageTypeCd": "OT"
+                        },
+                        {
+                            "languageDesc": "Persian",
+                            "languageTypeCd": "PE"
+                        },
+                        {
+                            "languageDesc": "Portuguese",
+                            "languageTypeCd": "PG"
+                        },
+                        {
+                            "languageDesc": "Russian",
+                            "languageTypeCd": "RU"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        },
+                        {
+                            "languageDesc": "Thai",
+                            "languageTypeCd": "TH"
+                        },
+                        {
+                            "languageDesc": "Vietnamese",
+                            "languageTypeCd": "VI"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "370",
+                            "specialityDesc": "Emergency Medicine"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "76918521",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "BOOTH,KELSEY",
+                                "GRAHAM,JENNIFER",
+                                "LANCSEK,LORI",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SMITH,ALYSSA",
+                                "SUMMERTON,SARAH",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2194595238",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "BOOTH,KELSEY",
+                                "GRAHAM,JENNIFER",
+                                "LANCSEK,LORI",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SMITH,ALYSSA",
+                                "SUMMERTON,SARAH",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "67070995",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "BOOTH,KELSEY",
+                                "GRAHAM,JENNIFER",
+                                "LANCSEK,LORI",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SMITH,ALYSSA",
+                                "SUMMERTON,SARAH",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42064017",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "BOOTH,KELSEY",
+                                "GRAHAM,JENNIFER",
+                                "LANCSEK,LORI",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SMITH,ALYSSA",
+                                "SUMMERTON,SARAH",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1332979912",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "BOOTH,KELSEY",
+                                "GRAHAM,JENNIFER",
+                                "LANCSEK,LORI",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SMITH,ALYSSA",
+                                "SUMMERTON,SARAH",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "72249049",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "BOOTH,KELSEY",
+                                "GRAHAM,JENNIFER",
+                                "LANCSEK,LORI",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SMITH,ALYSSA",
+                                "SUMMERTON,SARAH",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "107832557",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "BOOTH,KELSEY",
+                                "GRAHAM,JENNIFER",
+                                "LANCSEK,LORI",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SMITH,ALYSSA",
+                                "SUMMERTON,SARAH",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"Y\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1891050357",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 0,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1400",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2524495780",
+                    "dbaName": "OUTER BANKS HEALTH MEDICAL GROUP",
+                    "maleAgeRange": "11",
+                    "femaleAgeRange": "11",
+                    "address": {
+                        "addressLine1": "5120 N CROATAN HWY",
+                        "addressLine2": null,
+                        "city": "KITTY HAWK",
+                        "state": "NC",
+                        "zipCode": "27949",
+                        "countyCode": "028",
+                        "countyName": "Dare",
+                        "latitude": 36.09625,
+                        "longitude": -75.71244,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2524495780",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10616940"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "middleName": null,
+                    "fullName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [
+                        "OUTER BANKS HEALTH FAMILY MEDICINE"
+                    ],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "Arabic",
+                            "languageTypeCd": "AR"
+                        },
+                        {
+                            "languageDesc": "Cambodian",
+                            "languageTypeCd": "CA"
+                        },
+                        {
+                            "languageDesc": "Chinese",
+                            "languageTypeCd": "CH"
+                        },
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "French Creole",
+                            "languageTypeCd": "FC"
+                        },
+                        {
+                            "languageDesc": "French",
+                            "languageTypeCd": "FR"
+                        },
+                        {
+                            "languageDesc": "German",
+                            "languageTypeCd": "GE"
+                        },
+                        {
+                            "languageDesc": "Greek",
+                            "languageTypeCd": "GR"
+                        },
+                        {
+                            "languageDesc": "Hindi",
+                            "languageTypeCd": "HI"
+                        },
+                        {
+                            "languageDesc": "Hmong",
+                            "languageTypeCd": "HM"
+                        },
+                        {
+                            "languageDesc": "Italian",
+                            "languageTypeCd": "IT"
+                        },
+                        {
+                            "languageDesc": "Japanese",
+                            "languageTypeCd": "JA"
+                        },
+                        {
+                            "languageDesc": "Korean",
+                            "languageTypeCd": "KO"
+                        },
+                        {
+                            "languageDesc": "Laotian",
+                            "languageTypeCd": "LA"
+                        },
+                        {
+                            "languageDesc": "Other",
+                            "languageTypeCd": "OT"
+                        },
+                        {
+                            "languageDesc": "Persian",
+                            "languageTypeCd": "PE"
+                        },
+                        {
+                            "languageDesc": "Portuguese",
+                            "languageTypeCd": "PG"
+                        },
+                        {
+                            "languageDesc": "Russian",
+                            "languageTypeCd": "RU"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        },
+                        {
+                            "languageDesc": "Thai",
+                            "languageTypeCd": "TH"
+                        },
+                        {
+                            "languageDesc": "Vietnamese",
+                            "languageTypeCd": "VI"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "690",
+                            "specialityDesc": "Obstetrics & Gynecology"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "1250",
+                            "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "965",
+                            "specialityDesc": "Psychiatry"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "76925687",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BAKER,ERIN",
+                                "BIERNACKI,GREGORY",
+                                "DART,MELANIE",
+                                "DWYER,DANIEL",
+                                "GRAHAM,JENNIFER",
+                                "KILGORE,WILLIAM",
+                                "MATTESON,GINA",
+                                "MCGINNIS,JACQUELYN",
+                                "MOORE,VIRGINIA",
+                                "PYE,JOSEPH",
+                                "REILLY,BENJAMIN",
+                                "SANCHEZ,JOHN",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "WILLIAMS,LYNNE",
+                                "WORTHEN,DAVID"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2229525754",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BAKER,ERIN",
+                                "BIERNACKI,GREGORY",
+                                "DART,MELANIE",
+                                "DWYER,DANIEL",
+                                "GRAHAM,JENNIFER",
+                                "KILGORE,WILLIAM",
+                                "MATTESON,GINA",
+                                "MCGINNIS,JACQUELYN",
+                                "MOORE,VIRGINIA",
+                                "PYE,JOSEPH",
+                                "REILLY,BENJAMIN",
+                                "SANCHEZ,JOHN",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "WILLIAMS,LYNNE",
+                                "WORTHEN,DAVID"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "67018057",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BAKER,ERIN",
+                                "BIERNACKI,GREGORY",
+                                "DART,MELANIE",
+                                "DWYER,DANIEL",
+                                "GRAHAM,JENNIFER",
+                                "KILGORE,WILLIAM",
+                                "MATTESON,GINA",
+                                "MCGINNIS,JACQUELYN",
+                                "MOORE,VIRGINIA",
+                                "PYE,JOSEPH",
+                                "REILLY,BENJAMIN",
+                                "SANCHEZ,JOHN",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "WILLIAMS,LYNNE",
+                                "WORTHEN,DAVID"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42067340",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BAKER,ERIN",
+                                "BIERNACKI,GREGORY",
+                                "DART,MELANIE",
+                                "DWYER,DANIEL",
+                                "GRAHAM,JENNIFER",
+                                "KILGORE,WILLIAM",
+                                "MATTESON,GINA",
+                                "MCGINNIS,JACQUELYN",
+                                "MOORE,VIRGINIA",
+                                "PYE,JOSEPH",
+                                "REILLY,BENJAMIN",
+                                "SANCHEZ,JOHN",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "WILLIAMS,LYNNE",
+                                "WORTHEN,DAVID"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1338442909",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BAKER,ERIN",
+                                "BIERNACKI,GREGORY",
+                                "DART,MELANIE",
+                                "DWYER,DANIEL",
+                                "GRAHAM,JENNIFER",
+                                "KILGORE,WILLIAM",
+                                "MATTESON,GINA",
+                                "MCGINNIS,JACQUELYN",
+                                "MOORE,VIRGINIA",
+                                "PYE,JOSEPH",
+                                "REILLY,BENJAMIN",
+                                "SANCHEZ,JOHN",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "WILLIAMS,LYNNE",
+                                "WORTHEN,DAVID"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "441322571",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BAKER,ERIN",
+                                "BIERNACKI,GREGORY",
+                                "DART,MELANIE",
+                                "DWYER,DANIEL",
+                                "GRAHAM,JENNIFER",
+                                "KILGORE,WILLIAM",
+                                "MATTESON,GINA",
+                                "MCGINNIS,JACQUELYN",
+                                "MOORE,VIRGINIA",
+                                "PYE,JOSEPH",
+                                "REILLY,BENJAMIN",
+                                "SANCHEZ,JOHN",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "WILLIAMS,LYNNE",
+                                "WORTHEN,DAVID"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "107829101",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BAKER,ERIN",
+                                "BIERNACKI,GREGORY",
+                                "DART,MELANIE",
+                                "DWYER,DANIEL",
+                                "GRAHAM,JENNIFER",
+                                "KILGORE,WILLIAM",
+                                "MATTESON,GINA",
+                                "MCGINNIS,JACQUELYN",
+                                "MOORE,VIRGINIA",
+                                "PYE,JOSEPH",
+                                "REILLY,BENJAMIN",
+                                "SANCHEZ,JOHN",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "WILLIAMS,LYNNE",
+                                "WORTHEN,DAVID"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"Y\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1891050357",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0730-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0730-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0730-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0730-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0730-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2524733478",
+                    "dbaName": "OUTER BANKS HEALTH MEDICAL GROUP",
+                    "maleAgeRange": "11",
+                    "femaleAgeRange": "11",
+                    "address": {
+                        "addressLine1": "604 AMANDA ST",
+                        "addressLine2": null,
+                        "city": "MANTEO",
+                        "state": "NC",
+                        "zipCode": "27954",
+                        "countyCode": "028",
+                        "countyName": "Dare",
+                        "latitude": 35.91697,
+                        "longitude": -75.67804,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2524733478",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10417852"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "middleName": null,
+                    "fullName": "OUTER BANKS PROFESSIONAL SERVICES",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": false,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "Arabic",
+                            "languageTypeCd": "AR"
+                        },
+                        {
+                            "languageDesc": "Cambodian",
+                            "languageTypeCd": "CA"
+                        },
+                        {
+                            "languageDesc": "Chinese",
+                            "languageTypeCd": "CH"
+                        },
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "French Creole",
+                            "languageTypeCd": "FC"
+                        },
+                        {
+                            "languageDesc": "French",
+                            "languageTypeCd": "FR"
+                        },
+                        {
+                            "languageDesc": "German",
+                            "languageTypeCd": "GE"
+                        },
+                        {
+                            "languageDesc": "Greek",
+                            "languageTypeCd": "GR"
+                        },
+                        {
+                            "languageDesc": "Hindi",
+                            "languageTypeCd": "HI"
+                        },
+                        {
+                            "languageDesc": "Hmong",
+                            "languageTypeCd": "HM"
+                        },
+                        {
+                            "languageDesc": "Italian",
+                            "languageTypeCd": "IT"
+                        },
+                        {
+                            "languageDesc": "Japanese",
+                            "languageTypeCd": "JA"
+                        },
+                        {
+                            "languageDesc": "Korean",
+                            "languageTypeCd": "KO"
+                        },
+                        {
+                            "languageDesc": "Laotian",
+                            "languageTypeCd": "LA"
+                        },
+                        {
+                            "languageDesc": "Other",
+                            "languageTypeCd": "OT"
+                        },
+                        {
+                            "languageDesc": "Persian",
+                            "languageTypeCd": "PE"
+                        },
+                        {
+                            "languageDesc": "Portuguese",
+                            "languageTypeCd": "PG"
+                        },
+                        {
+                            "languageDesc": "Russian",
+                            "languageTypeCd": "RU"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        },
+                        {
+                            "languageDesc": "Thai",
+                            "languageTypeCd": "TH"
+                        },
+                        {
+                            "languageDesc": "Vietnamese",
+                            "languageTypeCd": "VI"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "370",
+                            "specialityDesc": "Emergency Medicine"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "76922658",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "GRAHAM,JENNIFER",
+                                "METCALF,VERN",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "TURNER,MARINA",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2194595051",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "GRAHAM,JENNIFER",
+                                "METCALF,VERN",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "TURNER,MARINA",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "67071122",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "GRAHAM,JENNIFER",
+                                "METCALF,VERN",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "TURNER,MARINA",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42066447",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "GRAHAM,JENNIFER",
+                                "METCALF,VERN",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "TURNER,MARINA",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1332979957",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "GRAHAM,JENNIFER",
+                                "METCALF,VERN",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "TURNER,MARINA",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "441319433",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "GRAHAM,JENNIFER",
+                                "METCALF,VERN",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "TURNER,MARINA",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "153558611",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "AUSTIN,AMANDA",
+                                "BIERNACKI,GREGORY",
+                                "GRAHAM,JENNIFER",
+                                "METCALF,VERN",
+                                "MOORE,VIRGINIA",
+                                "RAY,JEFFREY",
+                                "SHOEMAKER,KELLY",
+                                "SUMNERS,ANN",
+                                "TURNER,MARINA",
+                                "WILLIAMS,LYNNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"Y\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1891050357",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 0,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1630",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1630",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1630",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1630",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2524497373",
+                    "dbaName": "OUTER BANKS HEALTH MEDICAL GROUP",
+                    "maleAgeRange": "11",
+                    "femaleAgeRange": "11",
+                    "address": {
+                        "addressLine1": "2518 S CROATAN HWY",
+                        "addressLine2": "STE B",
+                        "city": "NAGS HEAD",
+                        "state": "NC",
+                        "zipCode": "27959",
+                        "countyCode": "028",
+                        "countyName": "Dare",
+                        "latitude": 35.984356,
+                        "longitude": -75.64486,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2524497373",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10472974"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "SURF PEDIATRICS AND MEDICINE PC",
+                    "middleName": null,
+                    "fullName": "SURF PEDIATRICS AND MEDICINE PC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1245",
+                            "specialityDesc": "Primary Care Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41892689",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41892688",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972573350",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41892790",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "86891069",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1609058056",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1230-1630",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1230-1630",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 1230-1630",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1230-1630",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1230-1630"
+                    ],
+                    "afterHoursPhone": "2522555321",
+                    "dbaName": null,
+                    "maleAgeRange": "04",
+                    "femaleAgeRange": "04",
+                    "address": {
+                        "addressLine1": "400 S CROATAN HWY",
+                        "addressLine2": null,
+                        "city": "KILL DEVIL HILLS",
+                        "state": "NC",
+                        "zipCode": "27948",
+                        "countyCode": "028",
+                        "countyName": "Dare",
+                        "latitude": 36.01107,
+                        "longitude": -75.65993,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2524417870",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10608971"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "SURF PEDIATRICS AND MEDICINE PC",
+                    "middleName": null,
+                    "fullName": "SURF PEDIATRICS AND MEDICINE PC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [
+                        "SURF PEDIATRICS AND MEDICINE - KH"
+                    ],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1245",
+                            "specialityDesc": "Primary Care Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41895055",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41895053",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972573085",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41895057",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "86891506",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ANGELO,KATELYN",
+                                "BRUGGEMAN,TAMI",
+                                "CLOWER,ASHLEY",
+                                "FELTZ,TODD",
+                                "FLOCK,KELLIE",
+                                "GOTTSCHALK,ALYSSA",
+                                "GUNTHER,ROBERT",
+                                "LIGE,CHRISTIAN",
+                                "MCVEAN,MARY",
+                                "MIDGETTE,TARRA",
+                                "MILLS,STACY",
+                                "WILD,CHRISTY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1609058056",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 0,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1230-1630",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1230-1630",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 1230-1630",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1230-1630",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1230-1630"
+                    ],
+                    "afterHoursPhone": "2522555321",
+                    "dbaName": null,
+                    "maleAgeRange": "04",
+                    "femaleAgeRange": "04",
+                    "address": {
+                        "addressLine1": "5107 N CROATAN HWY",
+                        "addressLine2": null,
+                        "city": "KITTY HAWK",
+                        "state": "NC",
+                        "zipCode": "27949",
+                        "countyCode": "028",
+                        "countyName": "Dare",
+                        "latitude": 36.09606,
+                        "longitude": -75.71111,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2522555321",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10450128"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 6,
+            "size": 6,
+            "number": 0,
+            "totalRecords": 6,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}
