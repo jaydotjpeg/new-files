@@ -1,0 +1,2984 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "APPALACHIAN DISTRICT HEALTH DEPT",
+                    "middleName": null,
+                    "fullName": "APPALACHIAN DISTRICT HEALTH DEPT",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1110",
+                            "specialityDesc": "Adult Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "980",
+                            "specialityDesc": "Public Health; State or Local"
+                        },
+                        {
+                            "specialityCd": "970",
+                            "specialityDesc": "Psychologist"
+                        },
+                        {
+                            "specialityCd": "455",
+                            "specialityDesc": "Health Service - Clinic"
+                        },
+                        {
+                            "specialityCd": "940",
+                            "specialityDesc": "Professional"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "1515",
+                            "specialityDesc": "Registered Dietician"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "935",
+                            "specialityDesc": "Primary Care"
+                        },
+                        {
+                            "specialityCd": "05",
+                            "specialityDesc": "Addiction (Substance Use Disorder)"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "941805321",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41885649",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55489749",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41885740",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41885648",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "975079825",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972557764",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "112078832",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993573877",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41885741",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ADAMS,CAITLIN",
+                                "ALLEN,DANIEL",
+                                "AMBLER,RICHARD",
+                                "ANGE,JESSICA",
+                                "BOGARDUS,MELINDA",
+                                "BRIDGEMAN,RACHEL",
+                                "CLARK,REBECCA",
+                                "DENNY,EMILY",
+                                "GRANT,HANNAH",
+                                "HILTON,DREW",
+                                "JONES,TIMOTHY",
+                                "KOMDEUR,SHERI",
+                                "SCHORR,MARISA",
+                                "SULLIVAN,CAITLIN",
+                                "SVITZER,TODD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "455",
+                                    "specialityDesc": "Health Service - Clinic"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1427121144",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1230",
+                        "MONDAY PM 1300-1630",
+                        "TUESDAY AM 0800-1230",
+                        "TUESDAY PM 1300-1630",
+                        "WEDNESDAY AM 0800-1230",
+                        "WEDNESDAY PM 1300-1630",
+                        "THURSDAY AM 0800-1230",
+                        "THURSDAY PM 1300-1630",
+                        "FRIDAY AM 0800-1230",
+                        "FRIDAY PM 1300-1630"
+                    ],
+                    "afterHoursPhone": "3362469449",
+                    "dbaName": "APPHEALTHCARE",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "413 MCCONNELL ST",
+                        "addressLine2": null,
+                        "city": "JEFFERSON",
+                        "state": "NC",
+                        "zipCode": "28640",
+                        "countyCode": "005",
+                        "countyName": "Ashe",
+                        "latitude": 36.417038,
+                        "longitude": -81.47866,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "3362469449",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10482445"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "ASHE FINANCIAL SERVICES LLC",
+                    "middleName": null,
+                    "fullName": "ASHE FINANCIAL SERVICES LLC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1025",
+                            "specialityDesc": "Single Specialty"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "197407800",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUNDY,AMANDA",
+                                "CLARK,CATHY",
+                                "DILLEY,SHARON",
+                                "HUFFMAN,DONALD",
+                                "JONES JR,CHARLES",
+                                "MILLER,KATHLEEN",
+                                "WONSICK,MELINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "150331679",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUNDY,AMANDA",
+                                "CLARK,CATHY",
+                                "DILLEY,SHARON",
+                                "HUFFMAN,DONALD",
+                                "JONES JR,CHARLES",
+                                "MILLER,KATHLEEN",
+                                "WONSICK,MELINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42141662",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUNDY,AMANDA",
+                                "CLARK,CATHY",
+                                "DILLEY,SHARON",
+                                "HUFFMAN,DONALD",
+                                "JONES JR,CHARLES",
+                                "MILLER,KATHLEEN",
+                                "WONSICK,MELINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42141663",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUNDY,AMANDA",
+                                "CLARK,CATHY",
+                                "DILLEY,SHARON",
+                                "HUFFMAN,DONALD",
+                                "JONES JR,CHARLES",
+                                "MILLER,KATHLEEN",
+                                "WONSICK,MELINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1799100635",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUNDY,AMANDA",
+                                "CLARK,CATHY",
+                                "DILLEY,SHARON",
+                                "HUFFMAN,DONALD",
+                                "JONES JR,CHARLES",
+                                "MILLER,KATHLEEN",
+                                "WONSICK,MELINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1918265694",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUNDY,AMANDA",
+                                "CLARK,CATHY",
+                                "DILLEY,SHARON",
+                                "HUFFMAN,DONALD",
+                                "JONES JR,CHARLES",
+                                "MILLER,KATHLEEN",
+                                "WONSICK,MELINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"Y\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1295193340",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "3368467433",
+                    "dbaName": "ASHE FINANCIAL SERVICES LLC",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "200 HOSPITAL AVE",
+                        "addressLine2": null,
+                        "city": "JEFFERSON",
+                        "state": "NC",
+                        "zipCode": "28640",
+                        "countyCode": "005",
+                        "countyName": "Ashe",
+                        "latitude": 36.42322,
+                        "longitude": -81.45776,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "3368467433",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10437762"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "ASHE PEDIATRICS PLLC",
+                    "middleName": null,
+                    "fullName": "ASHE PEDIATRICS PLLC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1025",
+                            "specialityDesc": "Single Specialty"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1185",
+                            "specialityDesc": "Pediatrics Nurse Practitioner"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42093332",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRIVER,SHEILA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42093335",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRIVER,SHEILA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42093331",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRIVER,SHEILA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1790078038",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "3368464543",
+                    "dbaName": null,
+                    "maleAgeRange": "05",
+                    "femaleAgeRange": "05",
+                    "address": {
+                        "addressLine1": "303 E 2ND ST",
+                        "addressLine2": "STE A",
+                        "city": "WEST JEFFERSON",
+                        "state": "NC",
+                        "zipCode": "28694",
+                        "countyCode": "005",
+                        "countyName": "Ashe",
+                        "latitude": 36.403736,
+                        "longitude": -81.49288,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "3368464543",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10373430"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "HIGH COUNTRY FAMILY MEDICINE PA",
+                    "middleName": null,
+                    "fullName": "HIGH COUNTRY FAMILY MEDICINE PA",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1025",
+                            "specialityDesc": "Single Specialty"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871113",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BRADLEY,ELIZABETH",
+                                "CAMPBELL,CHRISTOPHER",
+                                "KURTZ,KEVIN",
+                                "LEONARD,JAYNE",
+                                "LEONARD,JAYNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "49250828",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BRADLEY,ELIZABETH",
+                                "CAMPBELL,CHRISTOPHER",
+                                "KURTZ,KEVIN",
+                                "LEONARD,JAYNE",
+                                "LEONARD,JAYNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871114",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BRADLEY,ELIZABETH",
+                                "CAMPBELL,CHRISTOPHER",
+                                "KURTZ,KEVIN",
+                                "LEONARD,JAYNE",
+                                "LEONARD,JAYNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871112",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BRADLEY,ELIZABETH",
+                                "CAMPBELL,CHRISTOPHER",
+                                "KURTZ,KEVIN",
+                                "LEONARD,JAYNE",
+                                "LEONARD,JAYNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871115",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BRADLEY,ELIZABETH",
+                                "CAMPBELL,CHRISTOPHER",
+                                "KURTZ,KEVIN",
+                                "LEONARD,JAYNE",
+                                "LEONARD,JAYNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993534056",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BRADLEY,ELIZABETH",
+                                "CAMPBELL,CHRISTOPHER",
+                                "KURTZ,KEVIN",
+                                "LEONARD,JAYNE",
+                                "LEONARD,JAYNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871116",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BRADLEY,ELIZABETH",
+                                "CAMPBELL,CHRISTOPHER",
+                                "KURTZ,KEVIN",
+                                "LEONARD,JAYNE",
+                                "LEONARD,JAYNE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1033185780",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0830-1200",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0830-1200",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0830-1200",
+                        "WEDNESDAY PM 1300-1700",
+                        "THURSDAY AM 0830-1200",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0830-1200",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "3368467238",
+                    "dbaName": "HIGH COUNTRY FAMILY MEDICINE PA",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "200 HOSPITAL AVE",
+                        "addressLine2": null,
+                        "city": "JEFFERSON",
+                        "state": "NC",
+                        "zipCode": "28640",
+                        "countyCode": "005",
+                        "countyName": "Ashe",
+                        "latitude": 36.42322,
+                        "longitude": -81.45776,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "3368467238",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10441848"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "HIGH COUNTRY HOUSE CALL",
+                    "middleName": null,
+                    "fullName": "HIGH COUNTRY HOUSE CALL",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": false,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1025",
+                            "specialityDesc": "Single Specialty"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42172470",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "WARNER,SHIRLEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55807271",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "WARNER,SHIRLEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42172471",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "WARNER,SHIRLEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42172369",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "WARNER,SHIRLEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "106541578",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "WARNER,SHIRLEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "992452134",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "WARNER,SHIRLEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42172472",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "WARNER,SHIRLEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1073965760",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1300",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1300",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1300",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "3369094275",
+                    "dbaName": null,
+                    "maleAgeRange": "12",
+                    "femaleAgeRange": "12",
+                    "address": {
+                        "addressLine1": "1006 S JEFFERSON AVE",
+                        "addressLine2": null,
+                        "city": "W JEFFERSON",
+                        "state": "NC",
+                        "zipCode": "28694",
+                        "countyCode": "005",
+                        "countyName": "Ashe",
+                        "latitude": 36.39109,
+                        "longitude": -81.488335,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "3369094275",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10383147"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "WAKE FOREST HEALTH NETWORK LLC",
+                    "middleName": null,
+                    "fullName": "WAKE FOREST HEALTH NETWORK LLC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": false,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "3080766714",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "79899637",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "298713678",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "80494666",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42080042",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2851084624",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2982302795",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "111667408",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "3396869994",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "75763899",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "DRY,LAUREN",
+                                "EDWARDS,ROBIN",
+                                "HERSHNER,GREGORY",
+                                "LYALL,LINDSAY",
+                                "RUTTER,MARGARET",
+                                "SHAPIRO,LINDSEY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "N",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1518393560",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 0,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0730-1730",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0730-1730",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0730-1730",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0730-1730",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0730-1730",
+                        "FRIDAY PM 0000-0000",
+                        "SATURDAY AM 0800-1200",
+                        "SATURDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "3362467161",
+                    "dbaName": "ATRIUM HEALTH WAKE FOREST BAPTIST FAMILY MEDICINE",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "151 MEDICAL PARK DR",
+                        "addressLine2": null,
+                        "city": "JEFFERSON",
+                        "state": "NC",
+                        "zipCode": "28640",
+                        "countyCode": "005",
+                        "countyName": "Ashe",
+                        "latitude": 36.425064,
+                        "longitude": -81.45712,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "3362467161",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10564827"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 6,
+            "size": 6,
+            "number": 0,
+            "totalRecords": 6,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}

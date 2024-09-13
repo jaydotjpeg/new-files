@@ -1,0 +1,2490 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "BLADEN HEALTHCARE LLC",
+                    "middleName": null,
+                    "fullName": "BLADEN HEALTHCARE LLC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": false,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1020",
+                            "specialityDesc": "Rural Health"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1705746662",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BELLAMY,MICHAEL",
+                                "BROWN,SHELLEY",
+                                "GRAHAM HOSKINS,PEARLY",
+                                "HINES,SHAUN",
+                                "LADAPO,OLAJUMOKE",
+                                "PAIT,HEATHER",
+                                "RICH JR,ROBERT",
+                                "UDEOZO,CHIDEBE",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "97429487",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BELLAMY,MICHAEL",
+                                "BROWN,SHELLEY",
+                                "GRAHAM HOSKINS,PEARLY",
+                                "HINES,SHAUN",
+                                "LADAPO,OLAJUMOKE",
+                                "PAIT,HEATHER",
+                                "RICH JR,ROBERT",
+                                "UDEOZO,CHIDEBE",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "62288270",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BELLAMY,MICHAEL",
+                                "BROWN,SHELLEY",
+                                "GRAHAM HOSKINS,PEARLY",
+                                "HINES,SHAUN",
+                                "LADAPO,OLAJUMOKE",
+                                "PAIT,HEATHER",
+                                "RICH JR,ROBERT",
+                                "UDEOZO,CHIDEBE",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41886204",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BELLAMY,MICHAEL",
+                                "BROWN,SHELLEY",
+                                "GRAHAM HOSKINS,PEARLY",
+                                "HINES,SHAUN",
+                                "LADAPO,OLAJUMOKE",
+                                "PAIT,HEATHER",
+                                "RICH JR,ROBERT",
+                                "UDEOZO,CHIDEBE",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "111313313",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BELLAMY,MICHAEL",
+                                "BROWN,SHELLEY",
+                                "GRAHAM HOSKINS,PEARLY",
+                                "HINES,SHAUN",
+                                "LADAPO,OLAJUMOKE",
+                                "PAIT,HEATHER",
+                                "RICH JR,ROBERT",
+                                "UDEOZO,CHIDEBE",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2523239456",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BELLAMY,MICHAEL",
+                                "BROWN,SHELLEY",
+                                "GRAHAM HOSKINS,PEARLY",
+                                "HINES,SHAUN",
+                                "LADAPO,OLAJUMOKE",
+                                "PAIT,HEATHER",
+                                "RICH JR,ROBERT",
+                                "UDEOZO,CHIDEBE",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "70833956",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BELLAMY,MICHAEL",
+                                "BROWN,SHELLEY",
+                                "GRAHAM HOSKINS,PEARLY",
+                                "HINES,SHAUN",
+                                "LADAPO,OLAJUMOKE",
+                                "PAIT,HEATHER",
+                                "RICH JR,ROBERT",
+                                "UDEOZO,CHIDEBE",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1417123993",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "9108633138",
+                    "dbaName": "CAPE FEAR VALLEY BMA BLADENBORO",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "1106 W SEABOARD ST",
+                        "addressLine2": null,
+                        "city": "BLADENBORO",
+                        "state": "NC",
+                        "zipCode": "28320",
+                        "countyCode": "009",
+                        "countyName": "Bladen",
+                        "latitude": 34.54144,
+                        "longitude": -78.794556,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "9108633138",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10599854"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "BLADEN HEALTHCARE LLC",
+                    "middleName": null,
+                    "fullName": "BLADEN HEALTHCARE LLC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": false,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1020",
+                            "specialityDesc": "Rural Health"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1707859479",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHILL,PEGGY",
+                                "BRIDGERS,STEPHEN",
+                                "BROWN,TRELENA",
+                                "PRIEST,ALLISON",
+                                "SHAW,JULIA",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "97923246",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHILL,PEGGY",
+                                "BRIDGERS,STEPHEN",
+                                "BROWN,TRELENA",
+                                "PRIEST,ALLISON",
+                                "SHAW,JULIA",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "62698615",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHILL,PEGGY",
+                                "BRIDGERS,STEPHEN",
+                                "BROWN,TRELENA",
+                                "PRIEST,ALLISON",
+                                "SHAW,JULIA",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42182768",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHILL,PEGGY",
+                                "BRIDGERS,STEPHEN",
+                                "BROWN,TRELENA",
+                                "PRIEST,ALLISON",
+                                "SHAW,JULIA",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "84257075",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHILL,PEGGY",
+                                "BRIDGERS,STEPHEN",
+                                "BROWN,TRELENA",
+                                "PRIEST,ALLISON",
+                                "SHAW,JULIA",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2525653271",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHILL,PEGGY",
+                                "BRIDGERS,STEPHEN",
+                                "BROWN,TRELENA",
+                                "PRIEST,ALLISON",
+                                "SHAW,JULIA",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "71256189",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHILL,PEGGY",
+                                "BRIDGERS,STEPHEN",
+                                "BROWN,TRELENA",
+                                "PRIEST,ALLISON",
+                                "SHAW,JULIA",
+                                "WELLS,ROXIE",
+                                "WYATT,TONNA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1043759335",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1630",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1630",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1630",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1630",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1300",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "9108621217",
+                    "dbaName": null,
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "9858 WR LATHAN DR",
+                        "addressLine2": null,
+                        "city": "CLARKTON",
+                        "state": "NC",
+                        "zipCode": "28433",
+                        "countyCode": "009",
+                        "countyName": "Bladen",
+                        "latitude": 34.495213,
+                        "longitude": -78.65976,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "9106471503",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10429419"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "BLADEN HEALTHCARE LLC",
+                    "middleName": null,
+                    "fullName": "BLADEN HEALTHCARE LLC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": false,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1020",
+                            "specialityDesc": "Rural Health"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1708187755",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARTER,KATHRYN",
+                                "GOODEN,STEPHANIE",
+                                "GRAHAM,BRIANA",
+                                "LOWRY,ANGIE",
+                                "MARLOWE,ASHLEY",
+                                "MONROE,BRYAN",
+                                "SMITH,JENNIFER",
+                                "VERGARA,JOSE",
+                                "WELLS,ROXIE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "97988658",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARTER,KATHRYN",
+                                "GOODEN,STEPHANIE",
+                                "GRAHAM,BRIANA",
+                                "LOWRY,ANGIE",
+                                "MARLOWE,ASHLEY",
+                                "MONROE,BRYAN",
+                                "SMITH,JENNIFER",
+                                "VERGARA,JOSE",
+                                "WELLS,ROXIE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "62755539",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARTER,KATHRYN",
+                                "GOODEN,STEPHANIE",
+                                "GRAHAM,BRIANA",
+                                "LOWRY,ANGIE",
+                                "MARLOWE,ASHLEY",
+                                "MONROE,BRYAN",
+                                "SMITH,JENNIFER",
+                                "VERGARA,JOSE",
+                                "WELLS,ROXIE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42220523",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARTER,KATHRYN",
+                                "GOODEN,STEPHANIE",
+                                "GRAHAM,BRIANA",
+                                "LOWRY,ANGIE",
+                                "MARLOWE,ASHLEY",
+                                "MONROE,BRYAN",
+                                "SMITH,JENNIFER",
+                                "VERGARA,JOSE",
+                                "WELLS,ROXIE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "526383919",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARTER,KATHRYN",
+                                "GOODEN,STEPHANIE",
+                                "GRAHAM,BRIANA",
+                                "LOWRY,ANGIE",
+                                "MARLOWE,ASHLEY",
+                                "MONROE,BRYAN",
+                                "SMITH,JENNIFER",
+                                "VERGARA,JOSE",
+                                "WELLS,ROXIE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2526025284",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARTER,KATHRYN",
+                                "GOODEN,STEPHANIE",
+                                "GRAHAM,BRIANA",
+                                "LOWRY,ANGIE",
+                                "MARLOWE,ASHLEY",
+                                "MONROE,BRYAN",
+                                "SMITH,JENNIFER",
+                                "VERGARA,JOSE",
+                                "WELLS,ROXIE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "71310307",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARTER,KATHRYN",
+                                "GOODEN,STEPHANIE",
+                                "GRAHAM,BRIANA",
+                                "LOWRY,ANGIE",
+                                "MARLOWE,ASHLEY",
+                                "MONROE,BRYAN",
+                                "SMITH,JENNIFER",
+                                "VERGARA,JOSE",
+                                "WELLS,ROXIE"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1528559671",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1800",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1800",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1800",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1800",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1800",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "9108621265",
+                    "dbaName": "CFV BLADEN MEDICAL ASSOCIATES-WHITE LAKE",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "273 WHITE LAKE DR",
+                        "addressLine2": null,
+                        "city": "ELIZABETHTOWN",
+                        "state": "NC",
+                        "zipCode": "28337",
+                        "countyCode": "009",
+                        "countyName": "Bladen",
+                        "latitude": 34.653225,
+                        "longitude": -78.49168,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "9108621265",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10356714"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "GOSHEN MEDICAL CENTER INCORPORATED",
+                    "middleName": null,
+                    "fullName": "GOSHEN MEDICAL CENTER INCORPORATED",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "Arabic",
+                            "languageTypeCd": "AR"
+                        },
+                        {
+                            "languageDesc": "Cambodian",
+                            "languageTypeCd": "CA"
+                        },
+                        {
+                            "languageDesc": "Chinese",
+                            "languageTypeCd": "CH"
+                        },
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "French Creole",
+                            "languageTypeCd": "FC"
+                        },
+                        {
+                            "languageDesc": "French",
+                            "languageTypeCd": "FR"
+                        },
+                        {
+                            "languageDesc": "German",
+                            "languageTypeCd": "GE"
+                        },
+                        {
+                            "languageDesc": "Greek",
+                            "languageTypeCd": "GR"
+                        },
+                        {
+                            "languageDesc": "Hindi",
+                            "languageTypeCd": "HI"
+                        },
+                        {
+                            "languageDesc": "Hmong",
+                            "languageTypeCd": "HM"
+                        },
+                        {
+                            "languageDesc": "Italian",
+                            "languageTypeCd": "IT"
+                        },
+                        {
+                            "languageDesc": "Japanese",
+                            "languageTypeCd": "JA"
+                        },
+                        {
+                            "languageDesc": "Korean",
+                            "languageTypeCd": "KO"
+                        },
+                        {
+                            "languageDesc": "Laotian",
+                            "languageTypeCd": "LA"
+                        },
+                        {
+                            "languageDesc": "Other",
+                            "languageTypeCd": "OT"
+                        },
+                        {
+                            "languageDesc": "Persian",
+                            "languageTypeCd": "PE"
+                        },
+                        {
+                            "languageDesc": "Portuguese",
+                            "languageTypeCd": "PG"
+                        },
+                        {
+                            "languageDesc": "Russian",
+                            "languageTypeCd": "RU"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        },
+                        {
+                            "languageDesc": "Thai",
+                            "languageTypeCd": "TH"
+                        },
+                        {
+                            "languageDesc": "Vietnamese",
+                            "languageTypeCd": "VI"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1245",
+                            "specialityDesc": "Primary Care Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1110",
+                            "specialityDesc": "Adult Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1150",
+                            "specialityDesc": "Gerontology Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "974971688",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "875351062",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1454603413",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "913528195",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "868008051",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1304403047",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1268805202",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1959471202",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993482163",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1126925069",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BEAVER,JOHN",
+                                "CAIN,MELISSA",
+                                "DAVIS,LYNN",
+                                "DRIVER,PAMELA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "KRANTZ,SANDRA",
+                                "MATTHEWS,RUSSELL",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "MCKITHAN,STEPHANIE",
+                                "PRUITT,WHITNEY",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1150",
+                                    "specialityDesc": "Gerontology Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1982357943",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "9197398680",
+                    "dbaName": "GOSHEN MEDICAL CENTER ELIZABETHTOWN",
+                    "maleAgeRange": "10",
+                    "femaleAgeRange": "10",
+                    "address": {
+                        "addressLine1": "400 MERCER MILL RD",
+                        "addressLine2": null,
+                        "city": "ELIZABETHTOWN",
+                        "state": "NC",
+                        "zipCode": "28337",
+                        "countyCode": "009",
+                        "countyName": "Bladen",
+                        "latitude": 34.620556,
+                        "longitude": -78.60556,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "9108793216",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "321098556"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "GOSHEN MEDICAL CENTER INCORPORATED",
+                    "middleName": null,
+                    "fullName": "GOSHEN MEDICAL CENTER INCORPORATED",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972601906",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41908185",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55511558",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41908187",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41908009",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972601918",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1255411038",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41908189",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993621971",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41908191",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "ALLEN,KIMBERLY",
+                                "CAIN,MELISSA",
+                                "CLARK,CYNTHIA",
+                                "DAVIS,LYNN",
+                                "DOBY,RACHEL",
+                                "GILBERT,REBECCA",
+                                "GYAMFI,VIDA",
+                                "HILL,CAROLINE",
+                                "HUFF,MICHELLE",
+                                "KRANTZ,SANDRA",
+                                "MCCASKILL-GAINEY,TENESA",
+                                "NARDI,DANIEL",
+                                "PARSON,KYLE",
+                                "PAYA,ISABELLA",
+                                "POPE,PAMELA",
+                                "SCOTT,BRANDI",
+                                "SMITH,KENDALL",
+                                "TYNDALL,KAITLYN",
+                                "WHITNEY,DOUGLAS",
+                                "ZIEBOL,HANNAH"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1912170002",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "9105291827",
+                    "dbaName": "GOSHEN MEDICAL CENTER GARLAND",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "105 LISBON AVE",
+                        "addressLine2": null,
+                        "city": "GARLAND",
+                        "state": "NC",
+                        "zipCode": "28441",
+                        "countyCode": "009",
+                        "countyName": "Bladen",
+                        "latitude": 34.783123,
+                        "longitude": -78.39393,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "9105291827",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10425978"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 5,
+            "size": 5,
+            "number": 0,
+            "totalRecords": 5,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}
