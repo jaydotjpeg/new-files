@@ -1,0 +1,2105 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "KIDZCARE PEDIATRICS PC",
+                    "middleName": null,
+                    "fullName": "KIDZCARE PEDIATRICS PC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "1185",
+                            "specialityDesc": "Pediatrics Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1386495160",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "168571695",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "107462460",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42273599",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42273598",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2465071590",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1233318932",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "112031343",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1380892304",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "191389542",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BUCY,MARK",
+                                "JAIN,AASHNA",
+                                "JAIN,ASHOKKUMAR",
+                                "TYE,JUSTINE",
+                                "YOUNG,CHELSEA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1124627146",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0830-1230",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0830-1230",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0830-1230",
+                        "WEDNESDAY PM 1300-1700",
+                        "THURSDAY AM 0830-1230",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0830-1230",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "2523035695",
+                    "dbaName": null,
+                    "maleAgeRange": "05",
+                    "femaleAgeRange": "05",
+                    "address": {
+                        "addressLine1": "413 W MAIN ST",
+                        "addressLine2": null,
+                        "city": "WILLIAMSTON",
+                        "state": "NC",
+                        "zipCode": "27892",
+                        "countyCode": "058",
+                        "countyName": "Martin",
+                        "latitude": 35.852257,
+                        "longitude": -77.05948,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2527924410",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10337152"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "METROPOLITAN COMMUNITY HEALTH SERVI",
+                    "middleName": null,
+                    "fullName": "METROPOLITAN COMMUNITY HEALTH SERVI",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "Arabic",
+                            "languageTypeCd": "AR"
+                        },
+                        {
+                            "languageDesc": "Cambodian",
+                            "languageTypeCd": "CA"
+                        },
+                        {
+                            "languageDesc": "Chinese",
+                            "languageTypeCd": "CH"
+                        },
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "French Creole",
+                            "languageTypeCd": "FC"
+                        },
+                        {
+                            "languageDesc": "French",
+                            "languageTypeCd": "FR"
+                        },
+                        {
+                            "languageDesc": "German",
+                            "languageTypeCd": "GE"
+                        },
+                        {
+                            "languageDesc": "Greek",
+                            "languageTypeCd": "GR"
+                        },
+                        {
+                            "languageDesc": "Hindi",
+                            "languageTypeCd": "HI"
+                        },
+                        {
+                            "languageDesc": "Hmong",
+                            "languageTypeCd": "HM"
+                        },
+                        {
+                            "languageDesc": "Italian",
+                            "languageTypeCd": "IT"
+                        },
+                        {
+                            "languageDesc": "Japanese",
+                            "languageTypeCd": "JA"
+                        },
+                        {
+                            "languageDesc": "Korean",
+                            "languageTypeCd": "KO"
+                        },
+                        {
+                            "languageDesc": "Laotian",
+                            "languageTypeCd": "LA"
+                        },
+                        {
+                            "languageDesc": "Other",
+                            "languageTypeCd": "OT"
+                        },
+                        {
+                            "languageDesc": "Persian",
+                            "languageTypeCd": "PE"
+                        },
+                        {
+                            "languageDesc": "Portuguese",
+                            "languageTypeCd": "PG"
+                        },
+                        {
+                            "languageDesc": "Russian",
+                            "languageTypeCd": "RU"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        },
+                        {
+                            "languageDesc": "Thai",
+                            "languageTypeCd": "TH"
+                        },
+                        {
+                            "languageDesc": "Vietnamese",
+                            "languageTypeCd": "VI"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1245",
+                            "specialityDesc": "Primary Care Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "370",
+                            "specialityDesc": "Emergency Medicine"
+                        },
+                        {
+                            "specialityCd": "1110",
+                            "specialityDesc": "Adult Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "175",
+                            "specialityDesc": "Clinic Pharmacy"
+                        },
+                        {
+                            "specialityCd": "285",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "1250",
+                            "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "940",
+                            "specialityDesc": "Professional"
+                        },
+                        {
+                            "specialityCd": "600",
+                            "specialityDesc": "Mental Health"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "965",
+                            "specialityDesc": "Psychiatry"
+                        },
+                        {
+                            "specialityCd": "15",
+                            "specialityDesc": "Addiction Medicine"
+                        },
+                        {
+                            "specialityCd": "05",
+                            "specialityDesc": "Addiction (Substance Use Disorder)"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "79936774",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55730509",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42109828",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42109811",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1224198069",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "N",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1245693973",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42109830",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "994716406",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "N",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42109832",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALBUENA TAPIA,ERICA",
+                                "CABELL,SHYLA",
+                                "CAMERON,KENZIE",
+                                "CARLTON,WENDI",
+                                "DAVIS,LINDSAY",
+                                "EARLY,COURTNEY",
+                                "EBISON,LORETTA",
+                                "ELLIS,RICKIE",
+                                "FRANCOIS WEST,MARIE",
+                                "HARRIS,CLARE",
+                                "HAYWOOD,ANTONIA",
+                                "HAYWOOD,JULIAN",
+                                "HILL,TWANNA",
+                                "HUNTER,THOMAS",
+                                "JOHNSON,AVA",
+                                "KASHYAP,SUNIL",
+                                "KEENE,DARLENE",
+                                "KENDALL,JEMELIA",
+                                "LEWIS,BEVERLY",
+                                "LINTON,DOROTHY",
+                                "MADDOX,JAMES",
+                                "MANNING,ELIZABETH",
+                                "MCCOY,BRITTANY",
+                                "MOORE-HARDISON,PAMELA",
+                                "POINDEXTER,TINA",
+                                "PRICE,RENEA",
+                                "PRICE,STEPHANIE",
+                                "REED,JOANNA",
+                                "RIBEIRO,DONALD",
+                                "ROBERSON,JENNIFER",
+                                "SADLER,WALTER",
+                                "SARAIYA,PARTH",
+                                "SEAL,AMY",
+                                "SONG,TAMMY",
+                                "THOMPSON,CHRISTOPHER",
+                                "TRABOLSKY,ROMI",
+                                "TROWER,DONALD",
+                                "WARREN,KRISTIN",
+                                "WHITEHEAD,KAREN",
+                                "WILLIAMS,AMANDA",
+                                "WOOLARD,ASHLEIGH",
+                                "WOOLARD,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "370",
+                                    "specialityDesc": "Emergency Medicine"
+                                },
+                                {
+                                    "specialityCd": "1110",
+                                    "specialityDesc": "Adult Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "175",
+                                    "specialityDesc": "Clinic Pharmacy"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1250",
+                                    "specialityDesc": "Psychiatric/Mental Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "940",
+                                    "specialityDesc": "Professional"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "15",
+                                    "specialityDesc": "Addiction Medicine"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1801222716",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1900",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2527890401",
+                    "dbaName": null,
+                    "maleAgeRange": "08",
+                    "femaleAgeRange": "08",
+                    "address": {
+                        "addressLine1": "1130 GODWIN DR",
+                        "addressLine2": null,
+                        "city": "WILLIAMSTON",
+                        "state": "NC",
+                        "zipCode": "27892",
+                        "countyCode": "058",
+                        "countyName": "Martin",
+                        "latitude": 35.838085,
+                        "longitude": -77.06877,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2527890401",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10413275"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 2,
+            "size": 2,
+            "number": 0,
+            "totalRecords": 2,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}

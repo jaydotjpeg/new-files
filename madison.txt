@@ -1,0 +1,3986 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "HOT SPRINGS HEALTH PROGRAM",
+                    "middleName": null,
+                    "fullName": "HOT SPRINGS HEALTH PROGRAM",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "1515",
+                            "specialityDesc": "Registered Dietician"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "902562082",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41884964",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55487847",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41884966",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41884963",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1158680622",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1158680624",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41884968",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993567935",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41884970",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1376510875",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0900-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0900-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0900-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0900-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0900-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "8286899713",
+                    "dbaName": "HOT SPRINGS MEDICAL AND DENTAL CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "66 NW US 25 70 HIGH",
+                        "addressLine2": null,
+                        "city": "HOT SPRINGS",
+                        "state": "NC",
+                        "zipCode": "28743",
+                        "countyCode": "057",
+                        "countyName": "Madison",
+                        "latitude": 35.892864,
+                        "longitude": -82.82944,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "8286223245",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10430056"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "HOT SPRINGS HEALTH PROGRAM",
+                    "middleName": null,
+                    "fullName": "HOT SPRINGS HEALTH PROGRAM",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "1515",
+                            "specialityDesc": "Registered Dietician"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "902599421",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41900185",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41900187",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41900186",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41900184",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972590095",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "970054841",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41900188",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993611346",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41900189",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1780651695",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0900-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0900-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0900-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0900-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0900-1700",
+                        "FRIDAY PM 0000-0000",
+                        "SATURDAY AM 0900-1700",
+                        "SATURDAY PM 0000-0000",
+                        "SUNDAY AM 1300-1700",
+                        "SUNDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "8286899713",
+                    "dbaName": "MARS HILL MEDICAL CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "119 MOUNTAIN VIEW RD",
+                        "addressLine2": null,
+                        "city": "MARS HILL",
+                        "state": "NC",
+                        "zipCode": "28754",
+                        "countyCode": "057",
+                        "countyName": "Madison",
+                        "latitude": 35.827602,
+                        "longitude": -82.54669,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "8286893507",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10516049"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "HOT SPRINGS HEALTH PROGRAM",
+                    "middleName": null,
+                    "fullName": "HOT SPRINGS HEALTH PROGRAM",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "1515",
+                            "specialityDesc": "Registered Dietician"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "902614109",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909038",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909128",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909039",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909037",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972604933",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "970067921",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909130",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993627802",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909132",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1942277454",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0900-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0900-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0900-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0900-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0900-1700",
+                        "FRIDAY PM 0000-0000",
+                        "SATURDAY AM 0900-1700",
+                        "SATURDAY PM 0000-0000",
+                        "SUNDAY AM 1300-1700",
+                        "SUNDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "8286899713",
+                    "dbaName": "MASHBURN MEDICAL CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "590 MEDICAL PARK DR",
+                        "addressLine2": null,
+                        "city": "MARSHALL",
+                        "state": "NC",
+                        "zipCode": "28753",
+                        "countyCode": "057",
+                        "countyName": "Madison",
+                        "latitude": 35.80579,
+                        "longitude": -82.6521,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "8286493500",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10631510"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "HOT SPRINGS HEALTH PROGRAM",
+                    "middleName": null,
+                    "fullName": "HOT SPRINGS HEALTH PROGRAM",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "1515",
+                            "specialityDesc": "Registered Dietician"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "902603491",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41904863",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41904865",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41904864",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41904862",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972594220",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "972594221",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41904866",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993614906",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41904867",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BARNHARDT,VIRGINIA",
+                                "BAUMGARTEN,ALAN",
+                                "BEANE,AMY",
+                                "BENNIE,JANET",
+                                "BUDDE,BROOKE",
+                                "DARRESS,LINDA",
+                                "HOFFMAN,RACHEL",
+                                "JOHNSON,KENYA",
+                                "JONES,CURRY",
+                                "JONES,DANA",
+                                "JONES,FRIELDEN",
+                                "KERNS,SHERRIE",
+                                "LAPPE,SARA",
+                                "LEAKE,RUTH",
+                                "LILLETHUN,MARTHA",
+                                "MAGONET,GORDON",
+                                "PENCE,BILLY",
+                                "ROBINSON,MELISSA",
+                                "SHELTON,ANDREW",
+                                "STEPP,BENJAMIN",
+                                "THOMAS,MISTY",
+                                "UPCHURCH,CAROLYN",
+                                "WILSON,BRANDI",
+                                "YOUNG,CHARLES",
+                                "ZEORLIN,CLAIRE",
+                                "ZOOK,JESSICA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "1515",
+                                    "specialityDesc": "Registered Dietician"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1811964729",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0900-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0900-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0900-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0900-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0900-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "8286899713",
+                    "dbaName": "LAUREL MEDICAL CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "80 GUNTERTOWN RD",
+                        "addressLine2": null,
+                        "city": "MARSHALL",
+                        "state": "NC",
+                        "zipCode": "28753",
+                        "countyCode": "057",
+                        "countyName": "Madison",
+                        "latitude": 35.933765,
+                        "longitude": -82.74258,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "8286562611",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10465040"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 4,
+            "size": 4,
+            "number": 0,
+            "totalRecords": 4,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}
