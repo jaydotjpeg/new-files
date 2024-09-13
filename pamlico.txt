@@ -1,0 +1,1194 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "COASTAL CAROLINA HEALTH CARE PA",
+                    "middleName": null,
+                    "fullName": "COASTAL CAROLINA HEALTH CARE PA",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": false,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "610",
+                            "specialityDesc": "Multi-Specialty"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "3411672136",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "63798806",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55799532",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42156242",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42156240",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "843131766",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "111812332",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42156294",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "CARPEROS,STEPHANIE",
+                                "ELLIOTT,CASEY",
+                                "HELM,HUGHES",
+                                "JONES,MAUREEN",
+                                "KUBE,REBEKAH",
+                                "LAMSAL,SUMAN",
+                                "MONTGOMERY,PATRICIA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "610",
+                                    "specialityDesc": "Multi-Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"N\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1063962074",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0830-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0830-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0830-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0830-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0830-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2526366877",
+                    "dbaName": "CCHC PAMLICO MEDICAL CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "606 MAIN ST",
+                        "addressLine2": null,
+                        "city": "BAYBORO",
+                        "state": "NC",
+                        "zipCode": "28515",
+                        "countyCode": "069",
+                        "countyName": "Pamlico",
+                        "latitude": 35.14395,
+                        "longitude": -76.77869,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2527453191",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10329357"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "GREENE COUNTY HEALTH CARE INC",
+                    "middleName": null,
+                    "fullName": "GREENE COUNTY HEALTH CARE INC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "Arabic",
+                            "languageTypeCd": "AR"
+                        },
+                        {
+                            "languageDesc": "Chinese",
+                            "languageTypeCd": "CH"
+                        },
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "French",
+                            "languageTypeCd": "FR"
+                        },
+                        {
+                            "languageDesc": "German",
+                            "languageTypeCd": "GE"
+                        },
+                        {
+                            "languageDesc": "Greek",
+                            "languageTypeCd": "GR"
+                        },
+                        {
+                            "languageDesc": "Hindi",
+                            "languageTypeCd": "HI"
+                        },
+                        {
+                            "languageDesc": "Italian",
+                            "languageTypeCd": "IT"
+                        },
+                        {
+                            "languageDesc": "Japanese",
+                            "languageTypeCd": "JA"
+                        },
+                        {
+                            "languageDesc": "Korean",
+                            "languageTypeCd": "KO"
+                        },
+                        {
+                            "languageDesc": "Other",
+                            "languageTypeCd": "OT"
+                        },
+                        {
+                            "languageDesc": "Persian",
+                            "languageTypeCd": "PE"
+                        },
+                        {
+                            "languageDesc": "Portuguese",
+                            "languageTypeCd": "PG"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        },
+                        {
+                            "languageDesc": "Thai",
+                            "languageTypeCd": "TH"
+                        },
+                        {
+                            "languageDesc": "Vietnamese",
+                            "languageTypeCd": "VI"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "580",
+                            "specialityDesc": "Marriage & Family Therapist"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "285",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "1185",
+                            "specialityDesc": "Pediatrics Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "600",
+                            "specialityDesc": "Mental Health"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "05",
+                            "specialityDesc": "Addiction (Substance Use Disorder)"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55498858",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BENDELE,ASHANTA",
+                                "CAMPBELL,GRACE",
+                                "CHENG,KERRY",
+                                "CONLIN,JEAN",
+                                "CRUZ,ALEX",
+                                "DIXON,KIM",
+                                "ELLIOTT,ANNE",
+                                "GRIFFITH,SAVANNAH",
+                                "GUPTA,SHILPI",
+                                "HERNANDEZ DOMINGUEZ,JOSE",
+                                "HU,XINRAN",
+                                "HUMPHREY,SHAWANNA",
+                                "MARTINEZ,ALEX",
+                                "POPE,MIKAELA",
+                                "SELLERS,CHARITY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "580",
+                                    "specialityDesc": "Marriage & Family Therapist"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41895960",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BENDELE,ASHANTA",
+                                "CAMPBELL,GRACE",
+                                "CHENG,KERRY",
+                                "CONLIN,JEAN",
+                                "CRUZ,ALEX",
+                                "DIXON,KIM",
+                                "ELLIOTT,ANNE",
+                                "GRIFFITH,SAVANNAH",
+                                "GUPTA,SHILPI",
+                                "HERNANDEZ DOMINGUEZ,JOSE",
+                                "HU,XINRAN",
+                                "HUMPHREY,SHAWANNA",
+                                "MARTINEZ,ALEX",
+                                "POPE,MIKAELA",
+                                "SELLERS,CHARITY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "580",
+                                    "specialityDesc": "Marriage & Family Therapist"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41895946",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BENDELE,ASHANTA",
+                                "CAMPBELL,GRACE",
+                                "CHENG,KERRY",
+                                "CONLIN,JEAN",
+                                "CRUZ,ALEX",
+                                "DIXON,KIM",
+                                "ELLIOTT,ANNE",
+                                "GRIFFITH,SAVANNAH",
+                                "GUPTA,SHILPI",
+                                "HERNANDEZ DOMINGUEZ,JOSE",
+                                "HU,XINRAN",
+                                "HUMPHREY,SHAWANNA",
+                                "MARTINEZ,ALEX",
+                                "POPE,MIKAELA",
+                                "SELLERS,CHARITY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "580",
+                                    "specialityDesc": "Marriage & Family Therapist"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "841820349",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BENDELE,ASHANTA",
+                                "CAMPBELL,GRACE",
+                                "CHENG,KERRY",
+                                "CONLIN,JEAN",
+                                "CRUZ,ALEX",
+                                "DIXON,KIM",
+                                "ELLIOTT,ANNE",
+                                "GRIFFITH,SAVANNAH",
+                                "GUPTA,SHILPI",
+                                "HERNANDEZ DOMINGUEZ,JOSE",
+                                "HU,XINRAN",
+                                "HUMPHREY,SHAWANNA",
+                                "MARTINEZ,ALEX",
+                                "POPE,MIKAELA",
+                                "SELLERS,CHARITY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "580",
+                                    "specialityDesc": "Marriage & Family Therapist"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41896030",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BENDELE,ASHANTA",
+                                "CAMPBELL,GRACE",
+                                "CHENG,KERRY",
+                                "CONLIN,JEAN",
+                                "CRUZ,ALEX",
+                                "DIXON,KIM",
+                                "ELLIOTT,ANNE",
+                                "GRIFFITH,SAVANNAH",
+                                "GUPTA,SHILPI",
+                                "HERNANDEZ DOMINGUEZ,JOSE",
+                                "HU,XINRAN",
+                                "HUMPHREY,SHAWANNA",
+                                "MARTINEZ,ALEX",
+                                "POPE,MIKAELA",
+                                "SELLERS,CHARITY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "580",
+                                    "specialityDesc": "Marriage & Family Therapist"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41896031",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BENDELE,ASHANTA",
+                                "CAMPBELL,GRACE",
+                                "CHENG,KERRY",
+                                "CONLIN,JEAN",
+                                "CRUZ,ALEX",
+                                "DIXON,KIM",
+                                "ELLIOTT,ANNE",
+                                "GRIFFITH,SAVANNAH",
+                                "GUPTA,SHILPI",
+                                "HERNANDEZ DOMINGUEZ,JOSE",
+                                "HU,XINRAN",
+                                "HUMPHREY,SHAWANNA",
+                                "MARTINEZ,ALEX",
+                                "POPE,MIKAELA",
+                                "SELLERS,CHARITY"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "580",
+                                    "specialityDesc": "Marriage & Family Therapist"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1185",
+                                    "specialityDesc": "Pediatrics Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "05",
+                                    "specialityDesc": "Addiction (Substance Use Disorder)"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1619244084",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0730-1800",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0730-1800",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0730-1800",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0730-1800",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0730-1800",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2527452070",
+                    "dbaName": "PAMLICO COMMUNITY HEALTH CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "313 MAIN ST",
+                        "addressLine2": null,
+                        "city": "BAYBORO",
+                        "state": "NC",
+                        "zipCode": "28515",
+                        "countyCode": "069",
+                        "countyName": "Pamlico",
+                        "latitude": 35.142765,
+                        "longitude": -76.772995,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2527452070",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10378096"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 2,
+            "size": 2,
+            "number": 0,
+            "totalRecords": 2,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}
