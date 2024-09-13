@@ -1,0 +1,379 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "TYRRELL COUNTY RURAL HEALTH ASSOCIA",
+                    "middleName": null,
+                    "fullName": "TYRRELL COUNTY RURAL HEALTH ASSOCIA",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": false,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1020",
+                            "specialityDesc": "Rural Health"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1085909668",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41890623",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "54220228",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41890624",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41890622",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1052193709",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1049527528",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41890625",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993580019",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "59523567",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "LEIBENSPERGER CAVALL,IRENE",
+                                "SPRADLIN,DONALD"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1020",
+                                    "specialityDesc": "Rural Health"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1477583102",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0730-1230",
+                        "MONDAY PM 1300-1630",
+                        "TUESDAY AM 0730-1230",
+                        "TUESDAY PM 1300-1630",
+                        "WEDNESDAY AM 0730-1230",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0730-1230",
+                        "THURSDAY PM 1300-1630",
+                        "FRIDAY AM 0730-1230",
+                        "FRIDAY PM 1300-1630"
+                    ],
+                    "afterHoursPhone": "2527960689",
+                    "dbaName": "COLUMBIA MEDICAL CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "208 N BROAD ST",
+                        "addressLine2": null,
+                        "city": "COLUMBIA",
+                        "state": "NC",
+                        "zipCode": "27925",
+                        "countyCode": "089",
+                        "countyName": "Tyrrell",
+                        "latitude": 35.919094,
+                        "longitude": -76.252396,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2527960689",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10355087"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 1,
+            "size": 1,
+            "number": 0,
+            "totalRecords": 1,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}
