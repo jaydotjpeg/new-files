@@ -1,0 +1,3185 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "NORTHHAMPTON FAMILY PRACTICE PC",
+                    "middleName": null,
+                    "fullName": "NORTHHAMPTON FAMILY PRACTICE PC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": false,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1025",
+                            "specialityDesc": "Single Specialty"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55501290",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "TAYLOR,FRANCIS",
+                                "TAYLOR,FRANCIS"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41898801",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "TAYLOR,FRANCIS",
+                                "TAYLOR,FRANCIS"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "785492135",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "TAYLOR,FRANCIS",
+                                "TAYLOR,FRANCIS"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "778485491",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "TAYLOR,FRANCIS",
+                                "TAYLOR,FRANCIS"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41898802",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "TAYLOR,FRANCIS",
+                                "TAYLOR,FRANCIS"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1025",
+                                    "specialityDesc": "Single Specialty"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"N\", \"visionInd\" : \"N\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"N\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1669687851",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1230",
+                        "MONDAY PM 1330-1700",
+                        "TUESDAY AM 0800-1230",
+                        "TUESDAY PM 1330-1700",
+                        "WEDNESDAY AM 0800-1230",
+                        "WEDNESDAY PM 1330-1700",
+                        "THURSDAY AM 0800-1230",
+                        "THURSDAY PM 1330-1700",
+                        "FRIDAY AM 0800-1230",
+                        "FRIDAY PM 1330-1600"
+                    ],
+                    "afterHoursPhone": "2525851134",
+                    "dbaName": "NORTHHAMPTON FAMILY PRACTICE PC",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "111 E MAIN ST",
+                        "addressLine2": null,
+                        "city": "CONWAY",
+                        "state": "NC",
+                        "zipCode": "27820",
+                        "countyCode": "066",
+                        "countyName": "Northampton",
+                        "latitude": 36.43684,
+                        "longitude": -77.2279,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2525851134",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10386032"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "RURAL HEALTH GROUP INC",
+                    "middleName": null,
+                    "fullName": "RURAL HEALTH GROUP INC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "1295",
+                            "specialityDesc": "Women's Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1255418701",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "46405897",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55513604",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909817",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909816",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "844199887",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "841850463",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909818",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1340297614",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41909820",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1962454447",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 1300-1700",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "2525392082",
+                    "dbaName": "RURAL HEALTH GROUP AT RICH SQUARE",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "200 S MAIN ST",
+                        "addressLine2": null,
+                        "city": "RICH SQUARE",
+                        "state": "NC",
+                        "zipCode": "27869",
+                        "countyCode": "066",
+                        "countyName": "Northampton",
+                        "latitude": 36.272808,
+                        "longitude": -77.28581,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2525392082",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10463725"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "RURAL HEALTH GROUP INC",
+                    "middleName": null,
+                    "fullName": "RURAL HEALTH GROUP INC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "285",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "1295",
+                            "specialityDesc": "Women's Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "970",
+                            "specialityDesc": "Psychologist"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "600",
+                            "specialityDesc": "Mental Health"
+                        },
+                        {
+                            "specialityCd": "965",
+                            "specialityDesc": "Psychiatry"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1255386595",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "44339736",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "55502384",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41898920",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41898918",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "844177214",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "841826523",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41898923",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1340268818",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41898925",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BALMER,LAQUITA",
+                                "BARRETT,BARBARA",
+                                "BARTEL,ALISON",
+                                "BOONE,SATESHA",
+                                "CLARK,EILIS",
+                                "DELOATCH,RAVEN",
+                                "DOWNEY,MARY",
+                                "FUTRELL,AMANDA",
+                                "GALLOWAY,AYANNA",
+                                "MAYS,JORDAN",
+                                "MOORE,RICHARD",
+                                "PERNESKY,JENNIFER",
+                                "RAMEY,REBECCA",
+                                "SHEPHERD,JUSTIN",
+                                "SIKOD,SEGA",
+                                "STIMSON,KAREN",
+                                "VINCENT,BRANDI"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "970",
+                                    "specialityDesc": "Psychologist"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "600",
+                                    "specialityDesc": "Mental Health"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1689626178",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 1300-1700",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "2525341661",
+                    "dbaName": "RURAL HEALTH GROUP AT JACKSON",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "9425 NC HIGHWAY 305",
+                        "addressLine2": null,
+                        "city": "JACKSON",
+                        "state": "NC",
+                        "zipCode": "27845",
+                        "countyCode": "066",
+                        "countyName": "Northampton",
+                        "latitude": 36.41003,
+                        "longitude": -77.43618,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2525341661",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10555114"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "RURAL HEALTH GROUP INC",
+                    "middleName": null,
+                    "fullName": "RURAL HEALTH GROUP INC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "690",
+                            "specialityDesc": "Obstetrics & Gynecology"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "285",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "1295",
+                            "specialityDesc": "Women's Health Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "865",
+                            "specialityDesc": "Pediatrics"
+                        },
+                        {
+                            "specialityCd": "745",
+                            "specialityDesc": "Pediatric Allergy/Immunology"
+                        },
+                        {
+                            "specialityCd": "965",
+                            "specialityDesc": "Psychiatry"
+                        },
+                        {
+                            "specialityCd": "40",
+                            "specialityDesc": "Advanced Practice Midwife"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1256399055",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "49474672",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "147003593",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42085031",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42085009",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1338544622",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1338544626",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42085033",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1341221594",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "42085035",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,SUSAN",
+                                "BARRETT,BARBARA",
+                                "BULLOCK,SONYA",
+                                "CHERRY,JAMIL",
+                                "CLARK,EILIS",
+                                "COX,TIMOTHY",
+                                "DORSEY,KRISTEN",
+                                "DOWNEY,MARY",
+                                "ENGLISH MANGUM,DANIELLE",
+                                "FIORILLI,MARIO",
+                                "GALLOWAY,AYANNA",
+                                "HEATH,STEPHANIE",
+                                "HENNESSEE,BENJAMIN",
+                                "JACK,JONATHAN",
+                                "JONES,CHERYL",
+                                "JORDAN,DE'MONE'",
+                                "LYNCH JONES,SHARON",
+                                "MAMEDI,VIJAYALAKSHMI",
+                                "MARADIAGA,GERARDO",
+                                "MASTROMARINO,SILVIANO",
+                                "MAYS,JORDAN",
+                                "MEYERS,ALANA",
+                                "MILLER III,ISAAC",
+                                "MOORE,RICHARD",
+                                "PIERCE,STEPHANIE",
+                                "PITTMAN,LAURA",
+                                "RABE,TIMOTHY",
+                                "SPENCE,JEANNE",
+                                "STIMSON,KAREN",
+                                "TALBERT,REBECCA",
+                                "VALLIANI,MAQSOOD",
+                                "WETHERALD,JENNIFER",
+                                "XIAO,MONA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "690",
+                                    "specialityDesc": "Obstetrics & Gynecology"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "285",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "1295",
+                                    "specialityDesc": "Women's Health Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "865",
+                                    "specialityDesc": "Pediatrics"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "745",
+                                    "specialityDesc": "Pediatric Allergy/Immunology"
+                                },
+                                {
+                                    "specialityCd": "40",
+                                    "specialityDesc": "Advanced Practice Midwife"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"Y\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1053742056",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 1300-1700",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "2523080577",
+                    "dbaName": "RURAL HEALTH GROUP AT KIPP",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "320 PLEASANT HILL RD",
+                        "addressLine2": null,
+                        "city": "GASTON",
+                        "state": "NC",
+                        "zipCode": "27832",
+                        "countyCode": "066",
+                        "countyName": "Northampton",
+                        "latitude": 36.504555,
+                        "longitude": -77.64095,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2523080577",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10377886"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 4,
+            "size": 4,
+            "number": 0,
+            "totalRecords": 4,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}
