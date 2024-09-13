@@ -1,0 +1,2048 @@
+{
+    "data": {
+        "status": 200,
+        "error": null,
+        "errorMessage": null,
+        "backend": "NCEB",
+        "data": {
+            "providers": [
+                {
+                    "firstName": null,
+                    "lastName": "COUNTY OF HYDE",
+                    "middleName": null,
+                    "fullName": "COUNTY OF HYDE",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1245",
+                            "specialityDesc": "Primary Care Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "935",
+                            "specialityDesc": "Primary Care"
+                        },
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "1035",
+                            "specialityDesc": "Sleep Medicine"
+                        },
+                        {
+                            "specialityCd": "560",
+                            "specialityDesc": "Internal Medicine"
+                        },
+                        {
+                            "specialityCd": "980",
+                            "specialityDesc": "Public Health; State or Local"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "985",
+                            "specialityDesc": "Pulmonary Disease"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "965",
+                            "specialityDesc": "Psychiatry"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2023559563",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "108292402",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41907183",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41907182",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1387090826",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "939296100",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41907184",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "2492604483",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41907185",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "FEHR-BANKS,CHERYL",
+                                "FIELDS,MONICA",
+                                "MEADS,LORETTA",
+                                "MUPPAVARAPU,KALYAN",
+                                "SANCHEZ,JOHN",
+                                "WILLIAMS,EMMA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1245",
+                                    "specialityDesc": "Primary Care Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "935",
+                                    "specialityDesc": "Primary Care"
+                                },
+                                {
+                                    "specialityCd": "1035",
+                                    "specialityDesc": "Sleep Medicine"
+                                },
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "560",
+                                    "specialityDesc": "Internal Medicine"
+                                },
+                                {
+                                    "specialityCd": "980",
+                                    "specialityDesc": "Public Health; State or Local"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "985",
+                                    "specialityDesc": "Pulmonary Disease"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "965",
+                                    "specialityDesc": "Psychiatry"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"N\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1962405159",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1700",
+                        "MONDAY PM 0000-0000",
+                        "TUESDAY AM 0800-1700",
+                        "TUESDAY PM 0000-0000",
+                        "WEDNESDAY AM 0800-1700",
+                        "WEDNESDAY PM 0000-0000",
+                        "THURSDAY AM 0800-1700",
+                        "THURSDAY PM 0000-0000",
+                        "FRIDAY AM 0800-1700",
+                        "FRIDAY PM 0000-0000"
+                    ],
+                    "afterHoursPhone": "2529264200",
+                    "dbaName": "HYDE CO HEALTH DEPT",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "1151 MAIN ST",
+                        "addressLine2": null,
+                        "city": "SWANQUARTER",
+                        "state": "NC",
+                        "zipCode": "27885",
+                        "countyCode": "048",
+                        "countyName": "Hyde",
+                        "latitude": 35.42039,
+                        "longitude": -76.319176,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2529264387",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10393463"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "OCRACOKE HEALTH CENTER INC",
+                    "middleName": null,
+                    "fullName": "OCRACOKE HEALTH CENTER INC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "890",
+                            "specialityDesc": "Physician Assistant"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "225",
+                            "specialityDesc": "Clinical"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "902535203",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871994",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "97412332",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871995",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871993",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1163999710",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "1163999729",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871996",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993536760",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41871997",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "LEEGINS-VINSON,KATIE",
+                                "PHAM,THAO",
+                                "SAWIN,SHANNON",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "890",
+                                    "specialityDesc": "Physician Assistant"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "225",
+                                    "specialityDesc": "Clinical"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"Y\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1063472116",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 1300-1700",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "2529253997",
+                    "dbaName": "ENGELHARD MEDICAL CENTER",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "33270 US 264",
+                        "addressLine2": null,
+                        "city": "ENGELHARD",
+                        "state": "NC",
+                        "zipCode": "27824",
+                        "countyCode": "048",
+                        "countyName": "Hyde",
+                        "latitude": 35.507965,
+                        "longitude": -76.024,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2529257000",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10623278"
+                },
+                {
+                    "firstName": null,
+                    "lastName": "OCRACOKE HEALTH CENTER INC",
+                    "middleName": null,
+                    "fullName": "OCRACOKE HEALTH CENTER INC",
+                    "emailAddress": null,
+                    "pcpFlag": "Y",
+                    "gender": "null",
+                    "doctorCode": null,
+                    "acceptNewPatients": true,
+                    "acceptChildren": false,
+                    "handicappedAccessible": true,
+                    "groupName": [],
+                    "providerLanguages": [
+                        {
+                            "languageDesc": "English",
+                            "languageTypeCd": "EN"
+                        },
+                        {
+                            "languageDesc": "Spanish",
+                            "languageTypeCd": "SP"
+                        }
+                    ],
+                    "providerSpeciality": [
+                        {
+                            "specialityCd": "1145",
+                            "specialityDesc": "Family Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "680",
+                            "specialityDesc": "Nurse Practitioner"
+                        },
+                        {
+                            "specialityCd": "400",
+                            "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                        },
+                        {
+                            "specialityCd": "425",
+                            "specialityDesc": "General Practice"
+                        },
+                        {
+                            "specialityCd": "390",
+                            "specialityDesc": "Family Medicine"
+                        }
+                    ],
+                    "providerType": [
+                        {
+                            "providerTypeCd": "2"
+                        }
+                    ],
+                    "providerAddressDetails": null,
+                    "planDetails": [
+                        {
+                            "planCode": "507",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "902591139",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "162",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41899263",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "142",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "97445353",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "141",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41899370",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "601",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41899262",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "506",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "844176349",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "505",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "841827257",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "202",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41899371",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "503",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "993598928",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        },
+                        {
+                            "planCode": "1002",
+                            "planName": "",
+                            "programTypeCd": null,
+                            "networkId": "41899372",
+                            "ageLowLimit": "null",
+                            "ageHighLimit": "null",
+                            "acceptedGenders": null,
+                            "hospitalName": [
+                                "BAKER,ERIN",
+                                "GAINES,LAUREN",
+                                "HARRISON,JENNIFER",
+                                "JERNIGAN,JOLENE",
+                                "MILLER,ANGELA",
+                                "SAWIN,SHANNON",
+                                "SEXTON,JEREMY",
+                                "WINNER,LINDA"
+                            ],
+                            "acceptNewBornInd": null,
+                            "acceptNewPatientsInd": "Y",
+                            "specialty": [
+                                {
+                                    "specialityCd": "1145",
+                                    "specialityDesc": "Family Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "680",
+                                    "specialityDesc": "Nurse Practitioner"
+                                },
+                                {
+                                    "specialityCd": "400",
+                                    "specialityDesc": "Federally Qualified Health Center (FQHC)"
+                                },
+                                {
+                                    "specialityCd": "425",
+                                    "specialityDesc": "General Practice"
+                                },
+                                {
+                                    "specialityCd": "390",
+                                    "specialityDesc": "Family Medicine"
+                                }
+                            ],
+                            "officeHours": [],
+                            "pcpFlag": "Y",
+                            "county": null,
+                            "acceptsObstetricsInd": null,
+                            "planPartners": null,
+                            "networkGenericField5Text": null
+                        }
+                    ],
+                    "providerSubprogramType": null,
+                    "epsdt": null,
+                    "ageOfPatientsAccepted": null,
+                    "relatedPCP": null,
+                    "languages": null,
+                    "accommodations": null,
+                    "associatedOrganization": null,
+                    "acceptedPatientGender": null,
+                    "acceptedPatientAge": null,
+                    "accessibility": "{\"langInterpreterInd\": \"Y\", \"brailleInd\": \"N\", \"signInterpreterInd\" : \"N\", \"behaviorInd\": \"Y\", \"hearingInd\" : \"Y\", \"visionInd\" : \"Y\", \"sexualAggrInd\": \"N\",\"tddEquipInd\": \"N\",\"wheelChairInd\": \"Y\",\"tailorCareManagerInd\" : \"N\"}",
+                    "npi": "1689726101",
+                    "ihcp": null,
+                    "benefitProgram": "01",
+                    "acceptedSiblings": 1,
+                    "providersOfficeHours": [
+                        "MONDAY AM 0800-1200",
+                        "MONDAY PM 1300-1700",
+                        "TUESDAY AM 0800-1200",
+                        "TUESDAY PM 1300-1700",
+                        "WEDNESDAY AM 0800-1200",
+                        "WEDNESDAY PM 1300-1700",
+                        "THURSDAY AM 0800-1200",
+                        "THURSDAY PM 1300-1700",
+                        "FRIDAY AM 0800-1200",
+                        "FRIDAY PM 1300-1700"
+                    ],
+                    "afterHoursPhone": "2529287425",
+                    "dbaName": "OCRACOKE HEALTH CENTER INC",
+                    "maleAgeRange": "06",
+                    "femaleAgeRange": "06",
+                    "address": {
+                        "addressLine1": "305 BACK RD",
+                        "addressLine2": null,
+                        "city": "OCRACOKE",
+                        "state": "NC",
+                        "zipCode": "27960",
+                        "countyCode": "048",
+                        "countyName": "Hyde",
+                        "latitude": 35.11252,
+                        "longitude": -75.97882,
+                        "distance": null,
+                        "addressType": "physical",
+                        "phoneNumber": "2529281511",
+                        "phoneType": null,
+                        "distanceFormat": null
+                    },
+                    "providerId": "10599313"
+                }
+            ],
+            "pageable": null,
+            "last": null,
+            "totalPages": null,
+            "totalElements": null,
+            "sort": null,
+            "first": null,
+            "numberOfElements": 3,
+            "size": 3,
+            "number": 0,
+            "totalRecords": 3,
+            "empty": false
+        }
+    },
+    "statusCode": 200
+}
